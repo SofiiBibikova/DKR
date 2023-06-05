@@ -1,0 +1,3 @@
+Application started.
+Customers data loaded.
+Sorted customers by last name.
